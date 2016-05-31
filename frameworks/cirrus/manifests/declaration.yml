@@ -1,0 +1,7 @@
+-
+  name: Essentials
+  editable: True
+  description: |
+    Description for Cirrus Declaration 
+  questions:
+    - simpleYesNo

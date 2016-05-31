@@ -1,3 +1,5 @@
 __pycache__
 *.pyc
 .hypothesis/eval_source
+venv
+.vscode
