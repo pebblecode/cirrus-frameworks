@@ -1,0 +1,22 @@
+{
+  "name": "cirrus-frameworks",
+  "version": "0.0.1",
+  "description": "Framework Schema/Metadata for Cirrus",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pebblecode/cirrus-frameworks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pebblecode/cirrus-frameworks/issues"
+  },
+  "homepage": "https://github.com/pebblecode/cirrus-frameworks#readme"
+}
