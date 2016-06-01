@@ -11,6 +11,8 @@ depends:
       - iaas
       - SCS
       - scs
+      - cs
+      - clcs
 type: textarea
 max_length_in_words: 50
 validations:

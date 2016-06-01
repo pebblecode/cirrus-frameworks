@@ -1,14 +1,14 @@
 coming:
   heading: 'Cirrus coming soon'
   messages:
-    - 'Provide cloud software and support to the public sector.'
+    - 'Cirrus coming soon message.'
     - 'You need an account to receive notifications about when you can apply.'
 
 pending:
   heading: 'Cirrus is closed for applications'
   messages:
-    - 'Applications are being reviewed.'
-    - 'G‑Cloud 8 services will be available from 1 August 2016.'
+    - 'Cirrus is closed Line 1'
+    - 'Cirrus is closed Line 2'
 
 open:
   heading: 'Cirrus open for applications'
