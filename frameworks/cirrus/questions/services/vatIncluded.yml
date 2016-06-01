@@ -10,6 +10,8 @@ depends:
       - iaas
       - SCS
       - scs
+      - catering
+      - clcs
 type: boolean
 validations:
   -
