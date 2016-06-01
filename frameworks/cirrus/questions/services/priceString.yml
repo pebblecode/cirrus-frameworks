@@ -12,7 +12,7 @@ depends:
       - SCS
       - scs
       - clcs
-      - cs      
+      - catering      
 type: pricing
 question: 'Service price'
 fields:

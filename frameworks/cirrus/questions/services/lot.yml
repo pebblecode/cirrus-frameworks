@@ -23,6 +23,6 @@ options:
       Long description Contingent Labour and Consultancy Services.
   -
     label: Catering Services
-    value: cs
+    value: catering
     description: >
       A long description of catering stuff in here.

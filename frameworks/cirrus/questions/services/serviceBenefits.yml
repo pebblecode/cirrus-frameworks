@@ -12,7 +12,7 @@ depends:
       - SCS
       - scs
       - clcs
-      - cs
+      - catering
 list_item_name: 'service benefit'
 type: list
 validations:

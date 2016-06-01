@@ -12,7 +12,7 @@ depends:
       - SCS
       - scs
       - clcs
-      - cs      
+      - catering      
 type: text
 validations:
   -
