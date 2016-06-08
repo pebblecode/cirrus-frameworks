@@ -12,7 +12,7 @@ depends:
       - SCS
       - scs
       - clcs
-      - catering      
+      - supply_teachers      
 type: text
 validations:
   -

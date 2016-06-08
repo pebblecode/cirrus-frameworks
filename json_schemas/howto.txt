@@ -1,0 +1,1 @@
+after setting up your virtualenv and setting the questions to include with the right slug, run ./scripts/generate-schemas.py --output-path=json_schemas from the directory root. then copy it into the api repo.

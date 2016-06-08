@@ -11,7 +11,7 @@ depends:
       - iaas
       - SCS
       - scs
-      - catering
+      - supply_teachers
       - clcs
 type: textarea
 max_length_in_words: 50

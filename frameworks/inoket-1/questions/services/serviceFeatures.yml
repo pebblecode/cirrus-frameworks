@@ -12,7 +12,7 @@ depends:
       - SCS
       - scs
       - clcs
-      - catering      
+      - supply_teachers      
 list_item_name: 'service feature'
 type: list
 validations:

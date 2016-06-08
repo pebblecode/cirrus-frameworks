@@ -10,11 +10,22 @@ depends:
       - iaas
       - SCS
       - scs
-      - catering
       - clcs
-type: boolean
+      - supply_teachers      
+type: radios
+options:
+    -
+        label: Hour
+    -
+        label: Day
+    -
+        label: Month
+    -
+        label: Year
+    -
+        label: Other
 validations:
   -
     name: answer_required
     message: 'You need to answer this question.'
-question: 'VAT included'
+question: 'Minimum contract period'

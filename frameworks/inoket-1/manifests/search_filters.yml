@@ -1,0 +1,9 @@
+-
+  name: Pricing
+  questions:
+    - freeOption
+    - trialOption
+-
+  name: Minimum contract period
+  questions:
+    - minimumContractPeriod

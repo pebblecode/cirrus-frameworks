@@ -22,11 +22,7 @@ MANIFESTS = {
 
 SCHEMAS = {
     'services': [
-        ('Inoket Contingent Labour & Consultancy Services', 'inoket', 'clcs'),
-        ('Inoket Catering Services', 'inoket', 'cs'),
-        ('Inoket IaaS Service', 'inoket', 'iaas'),
-        ('Inoket Supply Teachers Service', 'inoket', 'supply_teachers'),
-        ('Inoket SaaS Service', 'inoket', 'saas')
+        ('Inoket Supply Teachers Service', 'inoket-1', 'supply_teachers')
     ],
     'briefs': [
     ],
