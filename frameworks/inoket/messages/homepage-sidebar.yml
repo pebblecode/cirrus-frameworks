@@ -1,17 +1,17 @@
 coming:
-  heading: 'Cirrus coming soon'
+  heading: 'Inoket 1 coming soon'
   messages:
-    - 'Cirrus coming soon message.'
+    - 'Inoket 1 coming soon message.'
     - 'You need an account to receive notifications about when you can apply.'
 
 pending:
-  heading: 'Cirrus is closed for applications'
+  heading: 'Inoket 1 is closed for applications'
   messages:
-    - 'Cirrus is closed Line 1'
-    - 'Cirrus is closed Line 2'
+    - 'Inoket 1 is closed Line 1'
+    - 'Inoket 1 is closed Line 2'
 
 open:
-  heading: 'Cirrus open for applications'
+  heading: 'Inoket 1 open for applications'
   messages:
     - 'Provide cloud software and support to the public sector.'
     - 'You need an account to apply.'

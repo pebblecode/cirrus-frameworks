@@ -2,27 +2,7 @@ question: 'Service type'
 type: radios
 options:
   -
-    label: Infrastructure as a Service (IaaS)
-    value: iaas
+    label: Supply Teachers
+    value: supply_teachers
     description: >
-      Infrastructure is the hardware that makes software work. It’s the
-      networks, hosting facilities and servers that platforms and software
-      depend on. IaaS is infrastructure you can order and run entirely over
-      the internet, without having to pay for your own hardware.
-  -
-    label: Software as a Service (SaaS)
-    value: saas
-    description: >
-      SaaS is an application or service that can be run over the internet or
-      in the cloud. Examples of SaaS include web-based email services,
-      customer relationship management (CRM) software and analytics tools.
-  -
-    label: Contingent Labour and Consultancy Services
-    value: clcs
-    description: >
-      Long description Contingent Labour and Consultancy Services.
-  -
-    label: Catering Services
-    value: catering
-    description: >
-      A long description of catering stuff in here.
+      Services related to supply teaching.
