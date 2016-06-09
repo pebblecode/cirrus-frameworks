@@ -22,7 +22,8 @@ MANIFESTS = {
 
 SCHEMAS = {
     'services': [
-        ('Inoket Supply Teachers Service', 'inoket-1', 'supply_teachers')
+        ('Inoket 1 Supply Teachers', 'inoket-1', 'supply_teachers'),
+        ('Inoket 2 Supply Teachers', 'inoket-2', 'supply_teachers')
     ],
     'briefs': [
     ],

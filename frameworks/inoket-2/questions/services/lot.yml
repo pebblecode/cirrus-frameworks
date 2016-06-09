@@ -1,0 +1,8 @@
+question: 'Service type'
+type: radios
+options:
+  -
+    label: Supply Teachers
+    value: supply_teachers
+    description: >
+      Services related to supply teaching.

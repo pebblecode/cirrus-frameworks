@@ -1,0 +1,18 @@
+coming:
+  heading: 'Inoket 2 coming soon'
+  messages:
+    - 'Inoket 2 coming soon message.'
+    - 'You need an account to receive notifications about when you can apply.'
+
+pending:
+  heading: 'Inoket 2 is closed for applications'
+  messages:
+    - 'Inoket 2 is closed Line 1'
+    - 'Inoket 2 is closed Line 2'
+
+open:
+  heading: 'Inoket 2 open for applications'
+  messages:
+    - 'Provide cloud software and support to the public sector.'
+    - 'You need an account to apply.'
+    - 'The application deadline is 5pm BST, 21 June 2016.'
