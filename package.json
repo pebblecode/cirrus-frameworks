@@ -1,6 +1,6 @@
 {
   "name": "cirrus-frameworks",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Framework Schema/Metadata for Cirrus",
   "main": "index.js",
   "directories": {
