@@ -22,6 +22,10 @@ MANIFESTS = {
 
 SCHEMAS = {
     'services': [
+        ('Inoket 1 IaaS', 'inoket-1', 'iaas'),
+        ('Inoket 1 PaaS', 'inoket-1', 'paas'),
+        ('Inoket 1 SaaS', 'inoket-1', 'saas'),
+        ('Inoket 1 Specialist Cloud Services', 'inoket-1', 'scs'),
         ('Inoket 1 Supply Teachers', 'inoket-1', 'supply_teachers'),
         ('Inoket 2 Supply Teachers', 'inoket-2', 'supply_teachers')
     ],
